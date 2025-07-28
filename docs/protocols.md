@@ -51,10 +51,4 @@ Equipment:
 - Measure open circuit voltage (Ocv) and short circuit current (Isc).
 - Connect different loads (e.g., LED, motor) and record voltage vs time.
 - Log internal resistance, current density, and electrolyte stability.
-## 7. Outcomes
-
-- Achieved open circuit voltage of 1.4 V and short circuit current of 450 mA.
-- Improved consistency and safety with the agarose gel-based system.
-- Identified optimal PVDF-to-carbon ratio for stable discharge behavior.
-
 
